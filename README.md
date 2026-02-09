@@ -46,27 +46,9 @@ I like building things that **work under pressure**, not just in demos.
 
 ---
 
-## 🟡 Current Focus
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Architecture-111827?style=for-the-badge&logo=serverfault&logoColor=facc15"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=facc15"/>
-  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=facc15"/>
-</p>
 
----
 
-## 🐍 Contribution Flow
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=facc15&height=2"/>
-</p>
 
 <p align="center">
   <b style="color:#facc15;">⚡ Build bold. Scale hard. Stay curious.</b>
