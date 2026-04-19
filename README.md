@@ -41,7 +41,7 @@ I like building things that **work under pressure**, not just in demos.
 ## ⚙️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,git,js,ts,react,angular,nextjs,tailwind,nodejs,express,mongodb,postgres,mysql,redis,kafka&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cpp,git,js,ts,react,angular,nextjs,tailwind,nodejs,express,mongodb,postgres,mysql,redis,kafka,docker&theme=dark&perline=8" />
 </p>
 
 ---
